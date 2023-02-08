@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+
+#grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#cherries{
+    grid-row: 1;
+    grid-column: 1;
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    grid-row: 1;
+    grid-column: 1 / span 2;
+    font-size: 160px;
+    text-align: center;
+    position: relative;
+    top: -50px;
+    letter-spacing: 14px;
+}
+
+h3{
+    grid-row: 1;
+    grid-column: 2;
+    text-align: center;
+    font-size: 80px;
+    color: darkred;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+    letter-spacing: 14px;
+}
