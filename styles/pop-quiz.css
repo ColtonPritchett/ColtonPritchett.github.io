@@ -1,0 +1,43 @@
+h1{
+    font-size: 2em;
+}
+
+#me{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#hello{
+    font-size: 3em;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+#section{
+    margin: 50px;
+    background-color: lightgrey;
+    border-color: black;
+    border-radius: 2px;
+    height: 555px;
+}
+
+#name{
+    color: orange;
+    font-size: 3em;
+}
+
+#describe{
+    color: purple;
+    font-size: 2em;
+    text-align: justify;
+}
+
+#img{
+    width: 350px;
+    height: auto;
+    padding: 15px;
+    float: right;
+}
