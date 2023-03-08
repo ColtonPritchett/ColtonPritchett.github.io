@@ -1,0 +1,57 @@
+#box{
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+.material-symbols-outlined{
+    float: right;
+}
+
+h1{
+    color: #5b627f;
+    font-size: 4em;
+    font-family: 'Raleway', sans-serif;
+}
+
+h4{
+    color: #d8d8d8;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1em;
+    font-family: 'Raleway', sans-serif;
+}
+
+h5{
+    color: #b2b2b2;
+    margin-top: 0px;
+    font-size: 1em;
+    font-family: 'Raleway', sans-serif;
+}
+
+.input1{
+    background-color: #f3f3f3;
+    color: #b2b2b2;
+    border-style: hidden;
+    border-radius: 10px;
+    height: 3em;
+    width: 25%;
+    font-size: 1em;
+    margin-left: 10px;
+}
+
+.input2{
+    background-color: #2d5590;
+    color: #d8d8d8;
+    border-style: hidden;
+    border-radius: 10px;
+    height: 3em;
+    width: 25%;
+    font-size: 1em;
+    margin-left: 10px;
+}
+
+img{
+    opacity: 25%;
+    float: right;
+}
