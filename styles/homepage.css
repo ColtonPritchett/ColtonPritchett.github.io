@@ -187,6 +187,7 @@ footer a:hover{
 
 footer p{
     font-size: 1.2em;
+    clear: both;
 }
 
 footer p a:hover{
@@ -195,6 +196,7 @@ footer p a:hover{
 
 footer .social img{
     padding-top: 15px;
+    clear: both;
 }
 
 .button-box{
@@ -219,6 +221,54 @@ main section img{
 #logo_link{
     padding-top: 5px;
 }
+
+
+.rivers-grid h1{
+    font-size: 3.5em;
+}
+
+.rivers-grid h3{
+    color: red;
+    font-size: 1.5em;
+}
+
+.rivers-grid img{
+    width: 700px;
+    height: auto;
+}
+
+.rivers-grid p{
+    font-size: 1.3em;
+}
+
+.left-img{
+    padding: 0px 30px 30px 0;
+}
+
+.left-img h1{
+    clear: both;
+}
+
+.left-img img{
+    float: left;
+}
+
+.left-img p{
+    clear: right;
+}
+
+.right-img h1{
+    clear: both;
+}
+
+.right-img p{
+    clear: left;
+}
+
+.right-img img{
+    float: right;
+}
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
