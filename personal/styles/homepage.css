@@ -14,7 +14,20 @@
     align-items: center;
 }
 
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+}
+
+div{
+    font-family: 'Lato', sans-serif;
+}
+
 a{
+    font-family: 'Lato', sans-serif;
     width: auto;
     height: auto;
     font-size: 3em;
@@ -129,11 +142,20 @@ a{
 }
 
 
+#porsche{
+    float: right;
+    width: 35vw;
+    height: auto;
+    padding-left: 50px;
+}
+
+
 footer{
     display: flex;
     border-style: solid;
     border-color: black;
     height: 100px;
+    margin-top: 50px;
 }
 
 footer img{
